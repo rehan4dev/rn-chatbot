@@ -11,4 +11,3 @@ A conversational AI chatbot with persistent memory built with Python and Groq AP
 - Groq API (Llama 3.3)
 - JSON for memory storage
 
-## Built by Rehan — Day 32 of AI Engineering journey
